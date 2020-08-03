@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Pizzeria.ViewModel
 {
-    class EmployeeViewModel
+    class EmployeeViewModel : ViewModelBase
     {
     }
 }
